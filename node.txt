@@ -1,0 +1,30 @@
+built ontop of the v8 engine
+big-community
+js-nuggets -playlist in coding addicts
+
+browser - DOM 
+WINDOW
+INTERACTIVE APPS
+nO FILESYSTEM
+FRAGMENTATION
+ES6 MODULES
+
+node js doesn't have
+1. No DOM
+2. No WINDOW
+3. server side APPS
+4. FILESYSTEM
+5. Versions
+6. CommonJs
+
+NPM - node package mananger
+you can either install as a local or global package (-g flag for global)
+npm i -g <package name>
+sudo npm i -g <package name> This wn't want to give your credentials ill do if you do
+
+or locally
+npm i <package name>
+
+
+npm init to create a  package json FILE
+or npm -init -y for a faster approach in creating a package json file
